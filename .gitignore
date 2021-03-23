@@ -144,3 +144,5 @@ Desktop.ini
 # Custom
 ######################
 /HELP.md
+/pet-clinic-data/target/
+/pet-clinic-web/target/
