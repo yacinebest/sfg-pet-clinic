@@ -8,7 +8,7 @@ import java.util.Set;
 
 @Service
 public class VisitServiceMap extends AbstractMapService<Visit, Long> implements VisitService {
-    
+
     @Override
     public Visit findById(Long id) {
         return super.findById(id);
